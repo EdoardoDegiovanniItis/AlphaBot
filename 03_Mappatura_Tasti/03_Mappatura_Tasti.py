@@ -1,3 +1,6 @@
+#MAPPATURA DELLE SOLE LETTERE tramite la libreria PYNPUT
+#per scrivere il codice mi sono basato sulla documentazione offerta da https://pypi.org/project/pynput/
+
 from pynput import keyboard
 
 def on_press(key):
